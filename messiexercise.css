@@ -1,0 +1,40 @@
+h1{
+  
+    font-size: 70px;
+    text-align: center;
+    color: #fcedd8;
+    background-color: #eb452b;
+    padding: 40px;
+    font-family: 'Niconne', cursive;
+    font-weight: 700;
+    text-shadow: 5px 5px 0px #eb452b, 
+                10px 10px 0px #efa032, 
+                15px 15px 0px #46b59b, 
+                20px 20px 0px #017e7f, 
+                25px 25px 0px #052939, 
+                30px 30px 0px #c11a2b, 
+                35px 35px 0px #c11a2b, 
+                40px 40px 0px #c11a2b, 
+                45px 45px 0px #c11a2b;
+}
+
+  
+
+h2,h3,h4{
+    color:#030a2fe3;
+} 
+div{
+     color: deeppink;
+
+
+    padding: 10px;
+    margin: 10px;
+    font-size: 30px;
+}
+p{
+  line-height: 1.5;
+}
+
+body{
+  font-family: lato;
+}

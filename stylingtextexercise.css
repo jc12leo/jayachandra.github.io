@@ -1,0 +1,22 @@
+h1 {
+  font-size: 60px;
+  text-align: center;
+  font-family: sans-serif, Arial, Helvetica;
+}
+h2{
+  font-size: 50px;
+  font-style: italic;
+  color:#d27fb6;
+
+}
+h3{
+  font-size: 35px;
+  font-family:indie flower;
+  color:#f7b733;
+}
+p{
+  font: size 40px;
+  font-weight:lighter;
+  line-height: 2;
+  letter-spacing:  20px;
+}
